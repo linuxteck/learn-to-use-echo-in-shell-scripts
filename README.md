@@ -28,7 +28,7 @@ If you remember just this:
 
 > Using `echo` inside a Bash script
 
-![Preview](https://raw.githubusercontent.com/linuxteck/echo-shell/main/echo-preview.png)
+![Preview](https://github.com/linuxteck/learn-to-use-echo-in-shell-scripts/blob/main/bash-6.png)
 
 ---
 
